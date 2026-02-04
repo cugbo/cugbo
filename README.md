@@ -16,7 +16,22 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- **I'm currently working on**  <br>  A voting platform, a Learning Management System for schools, and a peer-to-peer delivery platform — all while diving deep into scalable backend systems and seamless integrations.<br><br>- **I'm looking to collaborate on**  <br>  Open-source projects in .NET or Python, especially those focused on education tech, civic tech, or logistics.<br><br>- **I'm looking for help with**  <br>  Optimizing real-time features in React/Angular applications and exploring machine learning integrations using R and Python.<br><br>- **I'm currently learning**  <br>  Advanced cloud architecture, microservices patterns, and more about DevOps CI/CD pipelines.<br><br>- **Ask me about**  <br>  Backend development in .NET and Python, building RESTful APIs, or my past projects like **decablog** and the real estate software **Limestone**.<br><br>- **Fun fact**  <br>  When I’m not coding, you’ll probably find me studying something new, playing video games, surfing the web, skating, or sipping coffee ☕.<br><br>**📧 Email:** chimaugbo@gmail.com  <br>**🐦 Twitter:** @cugbo  <br>**📸 Instagram:** @cugbo  <br>**✈️ Telegram:** t.me/cugbo
+**👨‍💻 I'm currently working on**  
+  A voting platform, a Learning Management System for schools, and a peer-to-peer delivery platform — all while diving deep into scalable backend systems and seamless integrations.
+**🤝 I'm looking to collaborate on**  
+  Open-source projects in .NET or Python, especially those focused on education tech, civic tech, or logistics.
+**🆘 I'm looking for help with**  
+  Optimizing real-time features in React/Angular applications and exploring machine learning integrations using R and Python.
+**📚 I'm currently learning**  
+  Advanced cloud architecture, microservices patterns, and more about DevOps CI/CD pipelines.
+**💬 Ask me about**  
+  Backend development in .NET and Python, building RESTful APIs, or my past projects like **decablog** and the real estate software **Limestone**.
+**🎉 Fun fact**  
+  When I’m not coding, you’ll probably find me studying something new, playing video games, surfing the web, skating, or sipping coffee ☕.
+**📧 Email:** chimaugbo@gmail.com  
+**🐦 Twitter:** @cugbo  
+**📸 Instagram:** @cugbo  
+**✈️ Telegram:** t.me/cugbo
 
 
 ## 🌐 Socials:
