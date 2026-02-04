@@ -16,22 +16,28 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
--**👨‍💻 I'm currently working on**  
+- 👨‍💻 **I'm currently working on**  
   A voting platform, a Learning Management System for schools, and a peer-to-peer delivery platform — all while diving deep into scalable backend systems and seamless integrations.
--**🤝 I'm looking to collaborate on**  
+
+- 🤝 **I'm looking to collaborate on**  
   Open-source projects in .NET or Python, especially those focused on education tech, civic tech, or logistics.
--**🆘 I'm looking for help with**  
+
+- 🆘 **I'm looking for help with**  
   Optimizing real-time features in React/Angular applications and exploring machine learning integrations using R and Python.
--**📚 I'm currently learning**  
+
+- 📚 **I'm currently learning**  
   Advanced cloud architecture, microservices patterns, and more about DevOps CI/CD pipelines.
--**💬 Ask me about**  
+
+- 💬 **Ask me about**  
   Backend development in .NET and Python, building RESTful APIs, or my past projects like **decablog** and the real estate software **Limestone**.
--**🎉 Fun fact**  
-  When I’m not coding, you’ll probably find me studying something new, playing video games, surfing the web, skating, or sipping coffee ☕.
--**📧 Email:** chimaugbo@gmail.com  
--**🐦 Twitter:** @cugbo  
--**📸 Instagram:** @cugbo  
--**✈️ Telegram:** t.me/cugbo
+
+- 🎉 **Fun fact**  
+  When I'm not coding, you'll probably find me studying something new, playing video games, surfing the web, skating, or sipping coffee ☕.
+
+**📧 Email:** chimaugbo@gmail.com  
+**🐦 Twitter:** @cugbo  
+**📸 Instagram:** @cugbo  
+**✈️ Telegram:** t.me/cugbo
 
 
 ## 🌐 Socials:
